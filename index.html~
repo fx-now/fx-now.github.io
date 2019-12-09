@@ -126,6 +126,13 @@ I love what I do. Before money, bring me good project ideas. I like to fall in l
 						<div class="col-lg-3 col-md-3 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
+									<i class="fab fa-bootstrap"></i>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-4">
+							<div class="single-brand-item d-table">
+								<div class="d-table-cell text-center">
 									<i class="fab fa-css3"></i>
 								</div>
 							</div>
@@ -141,6 +148,13 @@ I love what I do. Before money, bring me good project ideas. I like to fall in l
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
 									<i class="fab fa-facebook"></i>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-4">
+							<div class="single-brand-item d-table">
+								<div class="d-table-cell text-center">
+									<i class="fab fa-font-awesome"></i>
 								</div>
 							</div>
 						</div>

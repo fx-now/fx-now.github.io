@@ -377,7 +377,7 @@ button:focus {
           position: absolute;
           top: 50%;
           left: 23%;
-          background: #aaa; }
+          background: #000000; }
           @media (max-width: 575px) {
             .home_banner_area .banner_inner .banner_content h3:after {
               display: none; } }
@@ -2501,7 +2501,7 @@ h6 {
 /* Start Brand Area css
 ============================================================================================ */
 .single-brand-item {
-  width: 170px;
+  width: 100px;
   height: 100px;
   cursor: pointer;
   margin-bottom: 30px;
@@ -3304,3 +3304,6 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+#iconlogos i {
+	font-size: 30px;
+}
